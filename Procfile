@@ -1,0 +1,1 @@
+web: gunicorn Titanic_project.wsgi
